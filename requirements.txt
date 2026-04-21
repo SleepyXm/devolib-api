@@ -15,3 +15,7 @@ resend
 cryptography
 python-dotenv
 asyncpg
+httpx
+docker
+structlog
+python-jose
