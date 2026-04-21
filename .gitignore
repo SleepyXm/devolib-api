@@ -179,3 +179,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+helpers/Operations/.DS_Store
+helpers/packagemanager/.DS_Store
+routers/projects/helpers/.DS_Store
+routers/projects/helpers/scanners/.DS_Store
+routers/projects/.DS_Store
+routers/products/.DS_Store
+routers/payments/.DS_Store
+routers/llm/.DS_Store
+routers/auth/.DS_Store
+routers/.DS_Store
+.DS_Store

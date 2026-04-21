@@ -1,0 +1,16 @@
+graphene
+FastAPI
+SQLAlchemy
+databases
+jose
+jwt
+passlib
+bcrypt=4.1.1
+uvicorn
+strawberry-graphql
+boto3
+apscheduler
+slowapi
+resend
+cryptography
+hashlib
