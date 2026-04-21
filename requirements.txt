@@ -13,3 +13,4 @@ apscheduler
 slowapi
 resend
 cryptography
+python-dotenv
