@@ -20,3 +20,4 @@ docker
 structlog
 python-jose
 stripe
+openai
